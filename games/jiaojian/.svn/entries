@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.iai.uni-bonn.de/repos/agwrobel/camlstudents"
+   name=""
+   revision="2853"
+   last-author="Dino Oglic"
+   url="https://svn.iai.uni-bonn.de/repos/agwrobel/camlstudents/doglic/games/ConstructionOfSearchHeuristics/src/games/jiaojian"
+   committed-rev="1730"
+   kind="dir"
+   committed-date="2013-02-26T12:50:47.900000Z"/>
+<entry
+   name="bg"
+   checksum="c63341cf6336ff83702969b8f435b95d"
+   last-author="Dino Oglic"
+   committed-rev="1730"
+   text-time="2013-02-26T12:36:32.000000Z"
+   kind="file"
+   committed-date="2013-02-26T12:50:47.900000Z"
+   prop-time="2013-02-26T12:50:33.000000Z"/>
+</wc-entries>

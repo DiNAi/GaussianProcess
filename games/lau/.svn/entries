@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.iai.uni-bonn.de/repos/agwrobel/camlstudents"
+   name=""
+   revision="2853"
+   last-author="Dino Oglic"
+   url="https://svn.iai.uni-bonn.de/repos/agwrobel/camlstudents/doglic/games/ConstructionOfSearchHeuristics/src/games/lau"
+   committed-rev="1730"
+   kind="dir"
+   committed-date="2013-02-26T12:50:47.900000Z"/>
+<entry
+   name="CheckersGame.dll"
+   checksum="d52675b68ec7c28e53c41dfc8727f1b6"
+   last-author="Dino Oglic"
+   committed-rev="1730"
+   text-time="2013-02-26T12:34:55.000000Z"
+   kind="file"
+   committed-date="2013-02-26T12:50:47.900000Z"
+   prop-time="2013-02-26T12:50:33.000000Z"/>
+<entry
+   name="CheckersTest.exe"
+   checksum="024dd961ccea4639864c4891d14f90d2"
+   last-author="Dino Oglic"
+   committed-rev="1730"
+   text-time="2013-02-26T12:34:55.000000Z"
+   kind="file"
+   committed-date="2013-02-26T12:50:47.900000Z"
+   prop-time="2013-02-26T12:50:33.000000Z"/>
+<entry
+   name="GameAI.dll"
+   checksum="151ca0442316626ca30f6de37f489537"
+   last-author="Dino Oglic"
+   committed-rev="1730"
+   text-time="2013-02-26T12:34:55.000000Z"
+   kind="file"
+   committed-date="2013-02-26T12:50:47.900000Z"
+   prop-time="2013-02-26T12:50:33.000000Z"/>
+<entry
+   name="OthelloTest.exe"
+   checksum="a075ae076e381482820f2ae56dd4f2d9"
+   last-author="Dino Oglic"
+   committed-rev="1730"
+   text-time="2013-02-26T12:34:55.000000Z"
+   kind="file"
+   committed-date="2013-02-26T12:50:47.900000Z"
+   prop-time="2013-02-26T12:50:33.000000Z"/>
+<entry
+   name="ReversiGame.dll"
+   checksum="c9a9660551e2facc64c471857af8f2b5"
+   last-author="Dino Oglic"
+   committed-rev="1730"
+   text-time="2013-02-26T12:34:55.000000Z"
+   kind="file"
+   committed-date="2013-02-26T12:50:47.900000Z"
+   prop-time="2013-02-26T12:50:33.000000Z"/>
+</wc-entries>

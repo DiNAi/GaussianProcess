@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.iai.uni-bonn.de/repos/agwrobel/camlstudents"
+   revision="2853"
+   last-author="Dino Oglic"
+   url="https://svn.iai.uni-bonn.de/repos/agwrobel/camlstudents/doglic/games/ConstructionOfSearchHeuristics/src/games"
+   committed-rev="1730"
+   kind="dir"
+   committed-date="2013-02-26T12:50:47.900000Z"/>
+<entry
+   name="jiaojian"
+   kind="dir"/>
+<entry
+   name="lau"
+   kind="dir"/>
+</wc-entries>

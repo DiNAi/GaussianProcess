@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{chu2005preference}
+Wei Chu and Zoubin Ghahramani.
+\newblock Preference learning with gaussian processes.
+\newblock In {\em Proceedings of the 22nd international conference on Machine
+  learning}, pages 137--144. ACM, 2005.
+
+\bibitem{eric2008active}
+Brochu Eric, Nando~D Freitas, and Abhijeet Ghosh.
+\newblock Active preference learning with discrete choice data.
+\newblock In {\em Advances in neural information processing systems}, pages
+  409--416, 2008.
+
+\bibitem{houlsby2012collaborative}
+Neil Houlsby, Ferenc Huszar, Zoubin Ghahramani, and Jose~M
+  Hern{\'a}ndez-lobato.
+\newblock Collaborative gaussian processes for preference learning.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  2096--2104, 2012.
+
+\bibitem{NeuMarHuaKer15}
+Marion Neumann, Daniel Marthaler, Shan Huang, and Kristian Kersting.
+\newblock py$\mathrm{GP}$s, 2015.
+\newblock \url{http://mloss.org/software/view/509/}.
+
+\bibitem{rasmussen2006gaussian}
+Carl~Edward Rasmussen.
+\newblock Gaussian processes for machine learning.
+\newblock 2006.
+
+\end{thebibliography}

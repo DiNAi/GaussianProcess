@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Board Game Heuristic}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Preference Learning}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Gaussian Process Preference Learning}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Active Learning Strategy}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 6
+\BOOKMARK [1][-]{section.3}{Approach}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Active Preference Learning}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Preference Learning Model}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Recast the Preference Model}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Inference by approximating Posterior and Predictions}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.5}{Optimizing the BALD Objective}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Accuracy Plots}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Benchmarking Best Heuristic}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Mean and Variance plots}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 17

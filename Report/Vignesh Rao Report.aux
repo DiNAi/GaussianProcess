@@ -1,0 +1,63 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Board Game Heuristic}{1}{subsection.1.1}}
+\citation{chu2005preference}
+\citation{houlsby2012collaborative}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Preference Learning}{2}{subsection.1.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Gaussian Process Preference Learning}{2}{subsection.1.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Active Learning Strategy}{2}{subsection.1.4}}
+\citation{NeuMarHuaKer15}
+\citation{NeuMarHuaKer15}
+\citation{eric2008active}
+\citation{houlsby2012collaborative}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{3}{section.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Approach}{3}{section.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Active Preference Learning}{3}{subsection.3.1}}
+\citation{chu2005preference}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Steps for Active Preference Learning}}{4}{algorithm.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Preference Learning Model}{4}{subsection.3.2}}
+\citation{houlsby2012collaborative}
+\newlabel{eq:likelihood}{{5}{5}{Preference Learning Model}{equation.3.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Recast the Preference Model}{5}{subsection.3.3}}
+\newlabel{eq:likelihood2}{{8}{5}{Recast the Preference Model}{equation.3.8}{}}
+\citation{rasmussen2006gaussian}
+\citation{rasmussen2006gaussian}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Inference by approximating Posterior and Predictions}{6}{subsection.3.4}}
+\citation{chu2005preference}
+\citation{houlsby2012collaborative}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Optimizing the BALD Objective}{7}{subsection.3.5}}
+\newlabel{eqn:BALD}{{14}{7}{Optimizing the BALD Objective}{equation.3.14}{}}
+\citation{NeuMarHuaKer15}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experiments}{8}{section.4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Accuracy Plots}{8}{subsection.4.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Plot for Accuracy Vs No. of Runs for the game Othello (left) and Checkers (right). The algorithm runs for 100 iterations and at each iteration we measure the accuracy by predicting the winners given 1000 test heuristic pairs. Initially we started with 2 heuristics in the training set and found a new heuristic pair at each iteration and simulated games.}}{8}{figure.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Benchmarking Best Heuristic}{9}{subsection.4.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Plot for the Score of the best heuristic Vs No. of Runs for the game Othello (left) and Checkers (right). At each round, we tried to find an opponent for the top scoring heuristic in the current training set. And then we calculated the benchmark score / winning rate of the best heuristic found so far by us, which can either be in training set or newly found opponent. For details, see the description below.}}{9}{figure.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Mean and Variance plots}{10}{subsection.4.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Plot of Mean (left) and Variance (right) Vs No. of Runs for the game Othello. These plots are for the same experiment in section (4.2) for Othello, and plotted the mean and variance of the heuristic pair found by optimizing only the second heuristic in this pair.}}{10}{figure.3}}
+\bibdata{bib/reference}
+\bibcite{chu2005preference}{{1}{}{{}}{{}}}
+\bibcite{eric2008active}{{2}{}{{}}{{}}}
+\bibcite{houlsby2012collaborative}{{3}{}{{}}{{}}}
+\bibcite{NeuMarHuaKer15}{{4}{}{{}}{{}}}
+\bibcite{rasmussen2006gaussian}{{5}{}{{}}{{}}}
+\bibstyle{plain}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusions}{11}{section.5}}
